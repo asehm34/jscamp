@@ -1,0 +1,1 @@
+1000'e kadarki tüm mükemmel sayıları listeleyen programı yazınız
