@@ -1,0 +1,1 @@
+1000'e kadarki tüm asal sayıları listeleyen programı yazınız.
