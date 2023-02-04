@@ -28,13 +28,12 @@ function isPerfect(param) {
         console.log(param +" is perfect number")
         
     }
-    else{
-        console.log(param +" is not perfect number")
-    }
-
+   
 
     
 }
 
-isPerfect(110)
-isPerfect(28)
+for (let i = 1; i < 1001; i++) {
+    isPerfect(i)
+    
+}
